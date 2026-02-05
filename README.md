@@ -19,7 +19,6 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el dataset 
 - pandas
 - matplotlib
 - seaborn
-- Jupyter Notebook
 
 ## Dataset
 Fuente: Kaggle – FIFA 23 Complete Player Dataset
