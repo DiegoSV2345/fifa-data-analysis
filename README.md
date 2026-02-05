@@ -30,6 +30,10 @@ Analizar el rendimiento general de los equipos de fútbol y comprender cómo fac
 - seaborn
 - Jupyter Notebook / Google Colab
 
+## Notebook
+🔎 Ver notebook (nbviewer):
+https://nbviewer.org/github/DiegoSV2345/fifa-data-analysis/blob/main/notebooks/01_eda_exploracion.ipynb
+
 ## Autor
 Diego Santis
 
