@@ -1,6 +1,7 @@
 # FIFA 23 – Análisis Exploratorio de Datos (Python)
 
-Este proyecto realiza un análisis exploratorio de datos (EDA) sobre el dataset de jugadores de FIFA 23, con el objetivo de practicar y demostrar habilidades reales de análisis de datos utilizando Python.
+### Dataset utilizado
+Para este análisis se utiliza el archivo `male_teams.csv`, el cual contiene información agregada de equipos de fútbol masculinos, permitiendo realizar un análisis exploratorio de datos de forma clara y didáctica.
 
 ## Objetivo del proyecto
 - Cargar y explorar el dataset
